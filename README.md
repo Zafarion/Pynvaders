@@ -3,7 +3,7 @@ Just a Python Space Invaders emulator, but you can select some options (mono col
 
 IMAGES:
 
-![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders0.png)
+![](https://github.com/Zafarion/Pynvaders/blob/6c17577b0d614c464bc79d6e68859a7b3bc86d2d/pics/PyInvaders0.png)
 ![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders1.png)
 ![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders2.png)
 ![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders3.png)
@@ -12,9 +12,9 @@ IMAGES:
 ![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders6.png)
 ![](https://github.com/Zafarion/Pynvaders/blob/b40945d2a334e4a5596a4c1bd62e3b2ea73848aa/pics/Pyvaders7.png)
 ![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders8.png)
-![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders9.png)
-![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders10.png)
-![](https://github.com/Zafarion/Pynvaders/blob/53cc0942e0f83948283f7de4293eac1553ba94ad/pics/Pyvaders11.png)
+![](https://github.com/Zafarion/Pynvaders/blob/6c17577b0d614c464bc79d6e68859a7b3bc86d2d/pics/PyInvaders9.png)
+![](https://github.com/Zafarion/Pynvaders/blob/6c17577b0d614c464bc79d6e68859a7b3bc86d2d/pics/PyInvaders10.png)
+![](https://github.com/Zafarion/Pynvaders/blob/6c17577b0d614c464bc79d6e68859a7b3bc86d2d/pics/PyInvaders11.png)
 
 INSTRUCTIONS
 
